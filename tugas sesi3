@@ -1,0 +1,6 @@
+nama = "Riska Nopiyanti"
+kelas = "TI22E"
+jurusan = "teknik informatika"
+quote = "apapun yang kamu lakukan awali dengan bismillah"
+
+print(nama, kelas, jurusan, quote)
